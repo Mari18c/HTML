@@ -1,0 +1,51 @@
+<!--Primera parte-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title style="color: aquamarine;"> Mariana  </title>
+
+    </head>
+    <body>
+    <!--Encabezados-->
+        <h1 style="color: rgb(120, 196, 170);"> Mi proyecto final </h1>
+        <p>Mi nombre es Mariana Carmona Zapata, Tengo 17 años y me gusta leer, ver peliculas, dormir y aprender</p>
+
+        <!--Listas Deesordenadas con enlaces a páginas-->
+        <h2 style="color: rgb(80, 190, 204); "> Mis páginas mas transcurridas
+        </h2>
+        <ul>
+            <li> <a href="https://moodle.riwi.io/?redirect=0"> La pagina oficial de Riwi</a></li>
+            <li> <a href= "https://www.youtube.com"> youtube</a></li>
+            <li> <a href= "https://www.facebook.com"> Facebook </a></li>
+        </ul>
+        <!--Adjuntar links de imagenes y videos.-->
+        <h3 style="color: rgb(120, 196, 170);"> Mis cosas favoritas</h3>
+        <img src="https://innokabi.com/wp-content/uploads/2019/03/spotify-150x150.png" alt="Escuchar musica">
+        <h3 style="color: lightblue;"> mi pelicula favorita</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/V-rv4C17J0s?si=lgxu8NZK5sreXA0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>"" 
+            
+        </body>
+</html>
+<!--Segunda Parte-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title style="color: aquamarine;"> Mariana  </title>
+
+    </head>
+<body>
+    <h2 style="color: lightseagreen;"> Pagina de interoperabilidad </h2>
+    <p> Este es el primer ejemplo de HTML, estoy emocionada por aprender cosas nuevas</p>
+    <h1 style="color: lightseagreen;">Formulario del contacto</h1>
+    <!--formulario-->
+    <form>
+        <label for="nombre"> Nombre </label>
+        <input id="nombre" name="nombre" placeholder="Nombre"/>
+        <label for="apellido"> Apellido </label>
+        <input id="apellido" name="apellido" placeholder="Apellido"/>
+        <button>Enviar</button>  
+    </form>
+</body>
